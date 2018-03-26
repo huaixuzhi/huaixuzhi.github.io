@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huaixuzhi.github.io/2018/03/26/go-func-method/</loc>
+    
+    <lastmod>2018-03-26T07:15:20.594Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huaixuzhi.github.io/2018/03/23/go-xml-to-json/</loc>
     
     <lastmod>2018-03-23T09:25:13.811Z</lastmod>
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>http://huaixuzhi.github.io/2017/04/25/Flask-virtualenv-off-line/</loc>
-    
-    <lastmod>2018-03-07T06:10:37.683Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://huaixuzhi.github.io/2017/10/30/n-power-of-m/</loc>
     
     <lastmod>2018-03-07T06:10:37.683Z</lastmod>
@@ -59,6 +59,13 @@
   
   <url>
     <loc>http://huaixuzhi.github.io/2017/12/22/agent-introduction/</loc>
+    
+    <lastmod>2018-03-07T06:10:37.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://huaixuzhi.github.io/2017/04/25/Flask-virtualenv-off-line/</loc>
     
     <lastmod>2018-03-07T06:10:37.683Z</lastmod>
     
@@ -121,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://huaixuzhi.github.io/2017/04/19/Web-%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84/</loc>
+    <loc>http://huaixuzhi.github.io/2018/01/05/IO-multiplexing/</loc>
     
     <lastmod>2018-03-07T06:10:37.651Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://huaixuzhi.github.io/2018/01/05/IO-multiplexing/</loc>
+    <loc>http://huaixuzhi.github.io/2017/04/19/Web-%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84/</loc>
     
     <lastmod>2018-03-07T06:10:37.651Z</lastmod>
     
